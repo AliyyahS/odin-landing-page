@@ -84,8 +84,7 @@ a {
     justify-content: center;
 }
 
-.section-two,
-.quote-section {
+.section-two {
     padding-top: 48px;
     padding-bottom: 48px;
 }
@@ -123,6 +122,8 @@ a {
 
 .quote-section {
     background-color: #E5E7EB;
+    padding-top: 60px;
+    padding-bottom: 60px;
     display: flex;
     flex-direction: column;
     justify-content: center;
