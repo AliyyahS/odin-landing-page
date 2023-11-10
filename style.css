@@ -84,7 +84,8 @@ a {
     justify-content: center;
 }
 
-.section-two {
+.section-two,
+.quote-section {
     padding-top: 48px;
     padding-bottom: 48px;
 }
@@ -118,4 +119,30 @@ a {
     justify-content: center;
     align-items: center;
     gap: 72px;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-section div {
+    width: 800px;
+    margin: 10px 0;
+    padding: 0;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quote-attribute {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: end;
 }
