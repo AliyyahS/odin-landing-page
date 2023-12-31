@@ -1,2 +1,2 @@
 # odin-landing-page
-Landing page project for The Odin Project
+A dummy landing page created with HTML and CSS.
